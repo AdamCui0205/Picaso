@@ -69,9 +69,15 @@ section > img{
     }
 }
 
-p{
+#p1{
     font-size: x-large;
     color:maroon;
     font-style: italic;
+}
+
+#p2{
+    font-size: x-large;
+    color:blue;
+    font-style:oblique;
 }
 
